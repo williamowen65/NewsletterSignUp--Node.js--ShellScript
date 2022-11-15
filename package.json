@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "artstore2": "./bin/index.js"
+    "artstore": "./bin/index.js"
   },
   "dependencies": {
     "dotenv": "^16.0.3",
